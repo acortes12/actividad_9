@@ -1,0 +1,112 @@
+.ejercio4 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+}
+.titulo1 {
+    color: blue;   
+}
+.titulo2 {
+    color: red;
+}
+.ejercicio5 {
+    font-size: 20px;
+    text-align: left;
+    margin: 100px;
+    font-family: sans-serif;
+}
+.verde_subrayado {
+    color: green;
+    text-decoration: underline;
+}
+.rojo{
+    color: red;
+}
+.doble_subrayado{
+    text-decoration: overline underline;
+}
+.small {
+    font-size: 60px;
+    font-weight: bold;
+}
+.azul {
+    color: blue;
+}
+.rojo_resaltado {
+    color: red;
+    text-decoration: underline;
+}
+.ejercicio6 {
+    font-size: 40px;
+    margin: 100px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.amarillo {
+    color: yellow;
+}
+.morado {
+    color: purple;
+}
+.amarillo , .morado {
+    text-decoration: underline;
+}
+.barra_navegacion {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fda8e1;
+    font-size: 22px;
+}
+li {
+    float: left;
+    margin: 10px;
+}
+.barra_navegacion a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+   
+}
+.inicio {
+    background-color: blue;
+    
+}
+.tabla {
+    font-family: Arial, Helvetica, sans-serif ;
+    border-collapse: collapse;
+    width: 70%;
+    background-color: yellow;
+    margin: 70px 50px;
+}
+th {
+    border-top: 1px dotted;
+    border-bottom: 1px dotted;
+    color: red;
+    border: black;
+    font-style: italic;
+}
+.edad {
+    border-left: 1px dotted;
+}
+.edad strong{
+    font-size: 20px;
+}
+.peso {
+    border-right: 1px dotted;
+}
+.peso strong{
+    font-size: 20px;
+}
+td {
+    border: 1px dotted;
+    
+}
+.texto {
+    border-bottom:1px dotted red;
+}
